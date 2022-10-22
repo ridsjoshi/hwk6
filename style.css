@@ -1,0 +1,68 @@
+.foodslist{
+    text-align:center;
+    display: block;
+    background-color: #c2e4d1;
+    padding: 30px 20px;
+    border-radius: 0px;
+    border-color: rgb(11, 70, 40);
+    border-style:groove;
+    margin-top: 2%;
+    margin-right: 70%;
+    margin-bottom: 2%;
+    margin-left: 1%;
+}
+
+.info{
+    text-align:center;
+    display: block;
+    background-color: rgb(11, 70, 40);
+    padding: 30px 20px;
+    border-radius: 0px;
+    margin-top: 2%;
+    margin-right: 70%;
+    margin-bottom: 80%;
+    margin-left: 1%;
+}
+
+.info p{
+    color: #c2e4d1ad;
+}
+
+label {
+    display: table-cell;
+    text-align: left;
+    width: 120px;
+}
+p {
+    color: rgb(11, 70, 40);
+    font-size: 15px;
+    text-align: left;
+    box-align: left;
+    display: flex;
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body {
+    background-color: #8ebba2;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+
+h1{
+    font-family:fantasy;
+    color: rgb(11, 70, 40);
+    font-size: 50px;
+    font-weight: bold;
+}
+
+input[type=button] {
+    background-color: rgb(11, 70, 40);
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: none;
+    font-size: 15px;
+    margin-top: 10px;
+    padding: 12px;
+    border-radius: 10px;
+}
